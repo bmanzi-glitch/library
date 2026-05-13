@@ -1,0 +1,31 @@
+{
+    "books": [
+        {
+            "id": "8f4711dd-6f07-47d3-ad85-53c5b6eae3b8",
+            "created_at": "2026-05-13T10:50:45.340262",
+            "updated_at": "2026-05-13T10:50:45.340483",
+            "title": "Harry Potter",
+            "author": "J.K Rowling",
+            "genre": "Fantasy",
+            "year": 1997,
+            "is_borrowed": false,
+            "borrowed_by": null
+        }
+    ],
+    "users": [
+        {
+            "id": "e7eabfeb-665a-4093-be2c-3d07f0412e63",
+            "created_at": "2026-05-13T10:50:45.340291",
+            "updated_at": "2026-05-13T10:50:45.340291",
+            "name": "Eddy",
+            "user_id": "001"
+        },
+        {
+            "id": "5c2be903-cd5a-42b7-9b85-7e8d16848db9",
+            "created_at": "2026-05-13T10:50:45.340297",
+            "updated_at": "2026-05-13T10:50:45.340297",
+            "name": "Bruce",
+            "user_id": "002"
+        }
+    ]
+}
